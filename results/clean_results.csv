@@ -1,0 +1,6 @@
+name,condition,snr_db,prediction,wer,cer
+../data/fr_001.wav,clean,," Bonjour, je m'appelle Noé et ceci est mon premier test de reconnaissance vocale.",0.0,0.0
+../data/fr_002.wav,clean,," Aujourd'hui il fait beau, je vais travailler sur mon projet de deep learning.",0.07142857142857142,0.03896103896103896
+../data/fr_003.wav,clean,, Le modèle doit transformer un signal audio à une transcription correcte.,0.09090909090909091,0.027777777777777776
+../data/fr_004.wav,clean,, Je voudrais savoir si le système transforme bien les phrases pour monter rapidement.,0.25,0.2125
+../data/fr_005.wav,clean,, Le réseau de neurones peut apprendre à reconnaître la parole dans différentes langues.,0.23076923076923078,0.05555555555555555
