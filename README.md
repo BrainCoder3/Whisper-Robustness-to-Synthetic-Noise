@@ -119,9 +119,10 @@ asr_robustness/
 │   └── cer_vs_snr.png
 ├── data/
 └── README.md
+```
 
+## Limitations
 
-Limitations
 This is a small controlled pilot experiment using only five recordings from
 one speaker and synthetic Gaussian noise.
 The results should therefore not be interpreted as a general benchmark of
@@ -135,7 +136,7 @@ Future extensions could include:
 - comparison with other ASR architectures
 
 
-Conclusion
+## Conclusion
 The experiment shows that Whisper-small can remain robust under moderate
 synthetic noise, while severe signal degradation can cause both ordinary ASR
 errors and extreme autoregressive decoding failures.
